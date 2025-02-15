@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\Desktop\\Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\users\\manue\\desktop\\runner\\assets\\_data\\scripts\\button\\lobby\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\_data\\scripts\\button\\lobby\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exit.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\Desktop\\Runner\\Assets\\_Data\\Scripts\\Button\\Lobby\\Exit.cs",
+              "RelativeDocumentMoniker": "Assets\\_Data\\Scripts\\Button\\Lobby\\Exit.cs",
+              "ToolTip": "C:\\Users\\manue\\Desktop\\Runner\\Assets\\_Data\\Scripts\\Button\\Lobby\\Exit.cs",
+              "RelativeToolTip": "Assets\\_Data\\Scripts\\Button\\Lobby\\Exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:10:36.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
